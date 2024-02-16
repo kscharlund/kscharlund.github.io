@@ -1,1 +1,1 @@
-# kscharlund.github.io
+A place for technical writing, placeholder for now.
