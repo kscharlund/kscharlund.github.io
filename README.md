@@ -1,1 +1,1 @@
-A place for technical writing, placeholder for now.
+[Fractal Northern Lights ARGB Effect](argb-analysis/)
